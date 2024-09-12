@@ -1,6 +1,6 @@
 ![ketiveelogo](https://github.com/user-attachments/assets/f348e543-c1ca-450f-a297-7e89424a25cf)
 
-@ketivee is dedicated to helping individuals, enterprises, the education sector, agriculture, space programs, game development, government, and private bodies.
+ketivee is dedicated to helping individuals, enterprises, the education sector, agriculture, space programs, game development, government, and private bodies.
 
 #Goal Of Ketivee
 Our goal is simple to improve existing technology and provide old tools with more security and improvement.
