@@ -1,10 +1,26 @@
-(https://github.com/user-attachments/assets/566bfa8d-8213-4573-acc5-b459b719b0d9)
+![ketiveelogo](https://github.com/user-attachments/assets/f348e543-c1ca-450f-a297-7e89424a25cf)
 
-Hi friends👭👬welcome to ketivee this
+@ketivee is dedicated to helping individuals, enterprises, the education sector, agriculture, space programs, game development, government, and private bodies.
 
-repo manage by ketivee team. dedicated
-to help individual👤, enterprises, medical field, 
-agriculture, 🚀 space mission, education, and large industry. 
-With help of AI and machine learning and it's tool. 
+#Goal Of Ketivee
+Our goal is simple to improve existing technology and provide old tools with more security and improvement.
+No matter whether owned by the government, private company, or individual, provide them tools to improve their program.
+Using AI we can achieve this goal that's why we working on this open-source project.
 
-every tool from us help large 
+
+#contribute
+
+If you want to help us create this powerful tool, your every contribution is welcome.
+you can copy and contribute to this project by copying or forking our project. 
+https://github.com/ketivee Every repo from us is free to use without any payment issues.
+
+
+
+#Sponser Us
+
+If you want to donate to our project you are incredible You can pay us 
+
+by PayPal or direct UPI on our id if you are from India
+
+our upi is 
+
