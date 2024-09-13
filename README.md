@@ -1,12 +1,14 @@
 ![ketiveelogo](https://github.com/user-attachments/assets/f348e543-c1ca-450f-a297-7e89424a25cf)
 
-ketivee is dedicated to helping individuals, enterprises, the education sector, agriculture, space programs, game development, government, and private bodies.
+ketivee is dedicated to helping individuals, enterprises, the education sector, agriculture,
+space programs, game development, government, and private bodies.
 
 # Goal Of Ketivee
 
-Our goal is simple to improve existing technology and provide old tools with more security and improvement.
-No matter whether owned by the government, private company, or individual, provide them tools to improve their program.
-Using AI we can achieve this goal that's why we working on this open-source project.
+Our mission is to improve existing technology by providing tools to enhance security and
+functionality using AI. Whether owned by governments, private companies,
+or individuals, our project aims to help everyone improve their programs.
+that's why we are working on this open-source project.
 
 
 # contribute
@@ -21,7 +23,7 @@ https://github.com/ketivee Every repo from us is free to use without any payment
 
 If you want to donate to our project you are incredible You can pay us 
 
-by PayPal or direct UPI on our id if you are from India
+by PayPal or direct UPI on our ID if you are from India
 
 our upi is 
 
