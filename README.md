@@ -5,8 +5,8 @@ space programs, game development, government, and private bodies.
 
 # Goal Of Ketivee
 
-Our mission is to improve existing technology by providing tools to enhance security and
-functionality using AI. Whether owned by governments, private companies,
+Our mission is to improve existing technology by providing AI tools to enhance security and
+functionality. Whether owned by governments, private companies,
 or individuals, our project aims to help everyone improve their programs.
 that's why we are working on this open-source project.
 
@@ -15,7 +15,7 @@ that's why we are working on this open-source project.
 
 If you want to help us create this powerful tool, your every contribution is welcome.
 you can copy and contribute to this project by copying or forking our project. 
-@ketivee-org Every repo from us is free to use without any payment issues.
+https://github.com/ketivee-org Every repo from us is free to use without any payment issues.
 
 
 
